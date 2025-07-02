@@ -1,0 +1,26 @@
+# Wix Build Files
+*.msi
+*.wixpdb
+*.cab
+
+# Build results
+bin/
+obj/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
